@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://fonts.cdnfonts.com/css/arcade-classic" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<script src="main.js"></script>
+<body onload="getApiValues()">
+
+    <div>
+        <div class="dev-title">
+            <p>Developed by dyyys0ft</p>
+        </div>
+    </div>
+    <div class="pokedex">
+        <div class="poke-head">
+            <div class="camera">
+                <span style='font-size:40px;'>&#128309;</span>
+            </div>
+            <div class="space">
+                <h1 class="main-title">
+                    <p>POKEDEX</p>
+                </h1>
+            </div>
+
+            <div class="sensors">
+                <span style='font-size:25px;'>&#128993;</span>
+                <span style='font-size:25px;'>&#128994;</span>
+                <span style='font-size:25px;'>&#128995;</span>
+            </div>
+
+        </div>
+        <div class="screen">
+            <div class="">
+                <p id="poke-name">Pokename</p>
+            </div>
+            <div class="img-container">
+                <img id="poke-img" class="poke-img" src="img/poke404.png" alt="img/poke404.png">
+            </div>
+            <div class="poke-info">
+                <div class="poke-power">
+                    <p id="poke-move">Move:</p> </div>
+                <div class="poke-power">
+                    <p id="poke-abilitie">Abilities:</p>
+                </div>
+                <div class="poke-power">
+                    <p id="poke-experience">Based Experience: </p>
+                </div>
+                <div class="poke-power">
+                    <p id="poke-types">Types:</p>
+                </div>
+                <div class="poke-power">
+                    <p id="poke-height">Height: </p>
+                </div>
+            </div>
+        </div>
+        <div class="preview">
+            <p id="poke-preview"> </p>
+        </div>
+        <div class="buttons">
+            <div class="arrows">
+                <div>
+                    <button class="bt-up" onclick="increasePokeIndex(1)">&#8593;</button>
+                </div>
+                <div>
+                    <br>
+                </div>
+                <div>
+                    <button class="bt-down" onclick="decreasePokeIndex(1)">&#8595;</button>
+                </div>
+            </div>
+            <div class="space-buttons">
+            </div>
+            <div class="controls">
+                <div>
+                    <button class="bt-select" onclick="writeInfo()" >X</button>
+                </div>
+                <div>
+                    <br>
+                </div>
+                <div>
+                    <button class="bt-return" onclick="getPokeNameById()" >&#8592;</button>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+
+
+</body>
+
+
+</html>

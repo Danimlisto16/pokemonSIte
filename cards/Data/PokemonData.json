@@ -1,0 +1,2234 @@
+[
+  {
+    "name": "bulbasaur",
+    "abilities": "overgrow",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/1.png",
+    "height": 7,
+    "experience": 64,
+    "types": "grass"
+  },
+  {
+    "name": "ivysaur",
+    "abilities": "overgrow",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/2.png",
+    "height": 10,
+    "experience": 142,
+    "types": "grass"
+  },
+  {
+    "name": "venusaur",
+    "abilities": "overgrow",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/3.png",
+    "height": 20,
+    "experience": 263,
+    "types": "grass"
+  },
+  {
+    "name": "charmander",
+    "abilities": "blaze",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "height": 6,
+    "experience": 62,
+    "types": "fire"
+  },
+  {
+    "name": "charmeleon",
+    "abilities": "blaze",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/5.png",
+    "height": 11,
+    "experience": 142,
+    "types": "fire"
+  },
+  {
+    "name": "charizard",
+    "abilities": "blaze",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/6.png",
+    "height": 17,
+    "experience": 267,
+    "types": "fire"
+  },
+  {
+    "name": "squirtle",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/7.png",
+    "height": 5,
+    "experience": 63,
+    "types": "water"
+  },
+  {
+    "name": "wartortle",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/8.png",
+    "height": 10,
+    "experience": 142,
+    "types": "water"
+  },
+  {
+    "name": "blastoise",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/9.png",
+    "height": 16,
+    "experience": 265,
+    "types": "water"
+  },
+  {
+    "name": "caterpie",
+    "abilities": "shield-dust",
+    "moves": "tackle",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/10.png",
+    "height": 3,
+    "experience": 39,
+    "types": "bug"
+  },
+  {
+    "name": "metapod",
+    "abilities": "shed-skin",
+    "moves": "string-shot",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/11.png",
+    "height": 7,
+    "experience": 72,
+    "types": "bug"
+  },
+  {
+    "name": "butterfree",
+    "abilities": "compound-eyes",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/12.png",
+    "height": 11,
+    "experience": 198,
+    "types": "bug"
+  },
+  {
+    "name": "weedle",
+    "abilities": "shield-dust",
+    "moves": "poison-sting",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/13.png",
+    "height": 3,
+    "experience": 39,
+    "types": "bug"
+  },
+  {
+    "name": "kakuna",
+    "abilities": "shed-skin",
+    "moves": "string-shot",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/14.png",
+    "height": 6,
+    "experience": 72,
+    "types": "bug"
+  },
+  {
+    "name": "beedrill",
+    "abilities": "swarm",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/15.png",
+    "height": 10,
+    "experience": 178,
+    "types": "bug"
+  },
+  {
+    "name": "pidgey",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/16.png",
+    "height": 3,
+    "experience": 50,
+    "types": "normal"
+  },
+  {
+    "name": "pidgeotto",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/17.png",
+    "height": 11,
+    "experience": 122,
+    "types": "normal"
+  },
+  {
+    "name": "pidgeot",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/18.png",
+    "height": 15,
+    "experience": 216,
+    "types": "normal"
+  },
+  {
+    "name": "rattata",
+    "abilities": "run-away",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/19.png",
+    "height": 3,
+    "experience": 51,
+    "types": "normal"
+  },
+  {
+    "name": "raticate",
+    "abilities": "run-away",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/20.png",
+    "height": 7,
+    "experience": 145,
+    "types": "normal"
+  },
+  {
+    "name": "spearow",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/21.png",
+    "height": 3,
+    "experience": 52,
+    "types": "normal"
+  },
+  {
+    "name": "fearow",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/22.png",
+    "height": 12,
+    "experience": 155,
+    "types": "normal"
+  },
+  {
+    "name": "ekans",
+    "abilities": "intimidate",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/23.png",
+    "height": 20,
+    "experience": 58,
+    "types": "poison"
+  },
+  {
+    "name": "arbok",
+    "abilities": "intimidate",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/24.png",
+    "height": 35,
+    "experience": 157,
+    "types": "poison"
+  },
+  {
+    "name": "pikachu",
+    "abilities": "static",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "height": 4,
+    "experience": 112,
+    "types": "electric"
+  },
+  {
+    "name": "raichu",
+    "abilities": "static",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/26.png",
+    "height": 8,
+    "experience": 243,
+    "types": "electric"
+  },
+  {
+    "name": "sandshrew",
+    "abilities": "sand-veil",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/27.png",
+    "height": 6,
+    "experience": 60,
+    "types": "ground"
+  },
+  {
+    "name": "sandslash",
+    "abilities": "sand-veil",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/28.png",
+    "height": 10,
+    "experience": 158,
+    "types": "ground"
+  },
+  {
+    "name": "nidoran-f",
+    "abilities": "poison-point",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/29.png",
+    "height": 4,
+    "experience": 55,
+    "types": "poison"
+  },
+  {
+    "name": "nidorina",
+    "abilities": "poison-point",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/30.png",
+    "height": 8,
+    "experience": 128,
+    "types": "poison"
+  },
+  {
+    "name": "nidoqueen",
+    "abilities": "poison-point",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/31.png",
+    "height": 13,
+    "experience": 253,
+    "types": "poison"
+  },
+  {
+    "name": "nidoran-m",
+    "abilities": "poison-point",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/32.png",
+    "height": 5,
+    "experience": 55,
+    "types": "poison"
+  },
+  {
+    "name": "nidorino",
+    "abilities": "poison-point",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/33.png",
+    "height": 9,
+    "experience": 128,
+    "types": "poison"
+  },
+  {
+    "name": "nidoking",
+    "abilities": "poison-point",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/34.png",
+    "height": 14,
+    "experience": 253,
+    "types": "poison"
+  },
+  {
+    "name": "clefairy",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/35.png",
+    "height": 6,
+    "experience": 113,
+    "types": "fairy"
+  },
+  {
+    "name": "clefable",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/36.png",
+    "height": 13,
+    "experience": 242,
+    "types": "fairy"
+  },
+  {
+    "name": "vulpix",
+    "abilities": "flash-fire",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/37.png",
+    "height": 6,
+    "experience": 60,
+    "types": "fire"
+  },
+  {
+    "name": "ninetales",
+    "abilities": "flash-fire",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/38.png",
+    "height": 11,
+    "experience": 177,
+    "types": "fire"
+  },
+  {
+    "name": "jigglypuff",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/39.png",
+    "height": 5,
+    "experience": 95,
+    "types": "normal"
+  },
+  {
+    "name": "wigglytuff",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/40.png",
+    "height": 10,
+    "experience": 218,
+    "types": "normal"
+  },
+  {
+    "name": "zubat",
+    "abilities": "inner-focus",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/41.png",
+    "height": 8,
+    "experience": 49,
+    "types": "poison"
+  },
+  {
+    "name": "golbat",
+    "abilities": "inner-focus",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/42.png",
+    "height": 16,
+    "experience": 159,
+    "types": "poison"
+  },
+  {
+    "name": "oddish",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/43.png",
+    "height": 5,
+    "experience": 64,
+    "types": "grass"
+  },
+  {
+    "name": "gloom",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/44.png",
+    "height": 8,
+    "experience": 138,
+    "types": "grass"
+  },
+  {
+    "name": "vileplume",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/45.png",
+    "height": 12,
+    "experience": 245,
+    "types": "grass"
+  },
+  {
+    "name": "paras",
+    "abilities": "effect-spore",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/46.png",
+    "height": 3,
+    "experience": 57,
+    "types": "bug"
+  },
+  {
+    "name": "parasect",
+    "abilities": "effect-spore",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/47.png",
+    "height": 10,
+    "experience": 142,
+    "types": "bug"
+  },
+  {
+    "name": "venonat",
+    "abilities": "compound-eyes",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/48.png",
+    "height": 10,
+    "experience": 61,
+    "types": "bug"
+  },
+  {
+    "name": "venomoth",
+    "abilities": "shield-dust",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/49.png",
+    "height": 15,
+    "experience": 158,
+    "types": "bug"
+  },
+  {
+    "name": "diglett",
+    "abilities": "sand-veil",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/50.png",
+    "height": 2,
+    "experience": 53,
+    "types": "ground"
+  },
+  {
+    "name": "dugtrio",
+    "abilities": "sand-veil",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/51.png",
+    "height": 7,
+    "experience": 149,
+    "types": "ground"
+  },
+  {
+    "name": "meowth",
+    "abilities": "pickup",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/52.png",
+    "height": 4,
+    "experience": 58,
+    "types": "normal"
+  },
+  {
+    "name": "persian",
+    "abilities": "limber",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/53.png",
+    "height": 10,
+    "experience": 154,
+    "types": "normal"
+  },
+  {
+    "name": "psyduck",
+    "abilities": "damp",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/54.png",
+    "height": 8,
+    "experience": 64,
+    "types": "water"
+  },
+  {
+    "name": "golduck",
+    "abilities": "damp",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/55.png",
+    "height": 17,
+    "experience": 175,
+    "types": "water"
+  },
+  {
+    "name": "mankey",
+    "abilities": "vital-spirit",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/56.png",
+    "height": 5,
+    "experience": 61,
+    "types": "fighting"
+  },
+  {
+    "name": "primeape",
+    "abilities": "vital-spirit",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/57.png",
+    "height": 10,
+    "experience": 159,
+    "types": "fighting"
+  },
+  {
+    "name": "growlithe",
+    "abilities": "intimidate",
+    "moves": "double-kick",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/58.png",
+    "height": 7,
+    "experience": 70,
+    "types": "fire"
+  },
+  {
+    "name": "arcanine",
+    "abilities": "intimidate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/59.png",
+    "height": 19,
+    "experience": 194,
+    "types": "fire"
+  },
+  {
+    "name": "poliwag",
+    "abilities": "water-absorb",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/60.png",
+    "height": 6,
+    "experience": 60,
+    "types": "water"
+  },
+  {
+    "name": "poliwhirl",
+    "abilities": "water-absorb",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/61.png",
+    "height": 10,
+    "experience": 135,
+    "types": "water"
+  },
+  {
+    "name": "poliwrath",
+    "abilities": "water-absorb",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/62.png",
+    "height": 13,
+    "experience": 255,
+    "types": "water"
+  },
+  {
+    "name": "abra",
+    "abilities": "synchronize",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/63.png",
+    "height": 9,
+    "experience": 62,
+    "types": "psychic"
+  },
+  {
+    "name": "kadabra",
+    "abilities": "synchronize",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/64.png",
+    "height": 13,
+    "experience": 140,
+    "types": "psychic"
+  },
+  {
+    "name": "alakazam",
+    "abilities": "synchronize",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/65.png",
+    "height": 15,
+    "experience": 250,
+    "types": "psychic"
+  },
+  {
+    "name": "machop",
+    "abilities": "guts",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/66.png",
+    "height": 8,
+    "experience": 61,
+    "types": "fighting"
+  },
+  {
+    "name": "machoke",
+    "abilities": "guts",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/67.png",
+    "height": 15,
+    "experience": 142,
+    "types": "fighting"
+  },
+  {
+    "name": "machamp",
+    "abilities": "guts",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/68.png",
+    "height": 16,
+    "experience": 253,
+    "types": "fighting"
+  },
+  {
+    "name": "bellsprout",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/69.png",
+    "height": 7,
+    "experience": 60,
+    "types": "grass"
+  },
+  {
+    "name": "weepinbell",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/70.png",
+    "height": 10,
+    "experience": 137,
+    "types": "grass"
+  },
+  {
+    "name": "victreebel",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/71.png",
+    "height": 17,
+    "experience": 221,
+    "types": "grass"
+  },
+  {
+    "name": "tentacool",
+    "abilities": "clear-body",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/72.png",
+    "height": 9,
+    "experience": 67,
+    "types": "water"
+  },
+  {
+    "name": "tentacruel",
+    "abilities": "clear-body",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/73.png",
+    "height": 16,
+    "experience": 180,
+    "types": "water"
+  },
+  {
+    "name": "geodude",
+    "abilities": "rock-head",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/74.png",
+    "height": 4,
+    "experience": 60,
+    "types": "rock"
+  },
+  {
+    "name": "graveler",
+    "abilities": "rock-head",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/75.png",
+    "height": 10,
+    "experience": 137,
+    "types": "rock"
+  },
+  {
+    "name": "golem",
+    "abilities": "rock-head",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/76.png",
+    "height": 14,
+    "experience": 223,
+    "types": "rock"
+  },
+  {
+    "name": "ponyta",
+    "abilities": "run-away",
+    "moves": "stomp",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/77.png",
+    "height": 10,
+    "experience": 82,
+    "types": "fire"
+  },
+  {
+    "name": "rapidash",
+    "abilities": "run-away",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/78.png",
+    "height": 17,
+    "experience": 175,
+    "types": "fire"
+  },
+  {
+    "name": "slowpoke",
+    "abilities": "oblivious",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/79.png",
+    "height": 12,
+    "experience": 63,
+    "types": "water"
+  },
+  {
+    "name": "slowbro",
+    "abilities": "oblivious",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/80.png",
+    "height": 16,
+    "experience": 172,
+    "types": "water"
+  },
+  {
+    "name": "magnemite",
+    "abilities": "magnet-pull",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/81.png",
+    "height": 3,
+    "experience": 65,
+    "types": "electric"
+  },
+  {
+    "name": "magneton",
+    "abilities": "magnet-pull",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/82.png",
+    "height": 10,
+    "experience": 163,
+    "types": "electric"
+  },
+  {
+    "name": "farfetchd",
+    "abilities": "keen-eye",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/83.png",
+    "height": 8,
+    "experience": 132,
+    "types": "normal"
+  },
+  {
+    "name": "doduo",
+    "abilities": "run-away",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/84.png",
+    "height": 14,
+    "experience": 62,
+    "types": "normal"
+  },
+  {
+    "name": "dodrio",
+    "abilities": "run-away",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/85.png",
+    "height": 18,
+    "experience": 165,
+    "types": "normal"
+  },
+  {
+    "name": "seel",
+    "abilities": "thick-fat",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/86.png",
+    "height": 11,
+    "experience": 65,
+    "types": "water"
+  },
+  {
+    "name": "dewgong",
+    "abilities": "thick-fat",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/87.png",
+    "height": 17,
+    "experience": 166,
+    "types": "water"
+  },
+  {
+    "name": "grimer",
+    "abilities": "stench",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/88.png",
+    "height": 9,
+    "experience": 65,
+    "types": "poison"
+  },
+  {
+    "name": "muk",
+    "abilities": "stench",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/89.png",
+    "height": 12,
+    "experience": 175,
+    "types": "poison"
+  },
+  {
+    "name": "shellder",
+    "abilities": "shell-armor",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/90.png",
+    "height": 3,
+    "experience": 61,
+    "types": "water"
+  },
+  {
+    "name": "cloyster",
+    "abilities": "shell-armor",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/91.png",
+    "height": 15,
+    "experience": 184,
+    "types": "water"
+  },
+  {
+    "name": "gastly",
+    "abilities": "levitate",
+    "moves": "fire-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/92.png",
+    "height": 13,
+    "experience": 62,
+    "types": "ghost"
+  },
+  {
+    "name": "haunter",
+    "abilities": "levitate",
+    "moves": "fire-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/93.png",
+    "height": 16,
+    "experience": 142,
+    "types": "ghost"
+  },
+  {
+    "name": "gengar",
+    "abilities": "cursed-body",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/94.png",
+    "height": 15,
+    "experience": 250,
+    "types": "ghost"
+  },
+  {
+    "name": "onix",
+    "abilities": "rock-head",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/95.png",
+    "height": 88,
+    "experience": 77,
+    "types": "rock"
+  },
+  {
+    "name": "drowzee",
+    "abilities": "insomnia",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/96.png",
+    "height": 10,
+    "experience": 66,
+    "types": "psychic"
+  },
+  {
+    "name": "hypno",
+    "abilities": "insomnia",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/97.png",
+    "height": 16,
+    "experience": 169,
+    "types": "psychic"
+  },
+  {
+    "name": "krabby",
+    "abilities": "hyper-cutter",
+    "moves": "vice-grip",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/98.png",
+    "height": 4,
+    "experience": 65,
+    "types": "water"
+  },
+  {
+    "name": "kingler",
+    "abilities": "hyper-cutter",
+    "moves": "vice-grip",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/99.png",
+    "height": 13,
+    "experience": 166,
+    "types": "water"
+  },
+  {
+    "name": "voltorb",
+    "abilities": "soundproof",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/100.png",
+    "height": 5,
+    "experience": 66,
+    "types": "electric"
+  },
+  {
+    "name": "electrode",
+    "abilities": "soundproof",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/101.png",
+    "height": 12,
+    "experience": 172,
+    "types": "electric"
+  },
+  {
+    "name": "exeggcute",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/102.png",
+    "height": 4,
+    "experience": 65,
+    "types": "grass"
+  },
+  {
+    "name": "exeggutor",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/103.png",
+    "height": 20,
+    "experience": 186,
+    "types": "grass"
+  },
+  {
+    "name": "cubone",
+    "abilities": "rock-head",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/104.png",
+    "height": 4,
+    "experience": 64,
+    "types": "ground"
+  },
+  {
+    "name": "marowak",
+    "abilities": "rock-head",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/105.png",
+    "height": 10,
+    "experience": 149,
+    "types": "ground"
+  },
+  {
+    "name": "hitmonlee",
+    "abilities": "limber",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/106.png",
+    "height": 15,
+    "experience": 159,
+    "types": "fighting"
+  },
+  {
+    "name": "hitmonchan",
+    "abilities": "keen-eye",
+    "moves": "comet-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/107.png",
+    "height": 14,
+    "experience": 159,
+    "types": "fighting"
+  },
+  {
+    "name": "lickitung",
+    "abilities": "own-tempo",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/108.png",
+    "height": 12,
+    "experience": 77,
+    "types": "normal"
+  },
+  {
+    "name": "koffing",
+    "abilities": "levitate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/109.png",
+    "height": 6,
+    "experience": 68,
+    "types": "poison"
+  },
+  {
+    "name": "weezing",
+    "abilities": "levitate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/110.png",
+    "height": 12,
+    "experience": 172,
+    "types": "poison"
+  },
+  {
+    "name": "rhyhorn",
+    "abilities": "lightning-rod",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/111.png",
+    "height": 10,
+    "experience": 69,
+    "types": "ground"
+  },
+  {
+    "name": "rhydon",
+    "abilities": "lightning-rod",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/112.png",
+    "height": 19,
+    "experience": 170,
+    "types": "ground"
+  },
+  {
+    "name": "chansey",
+    "abilities": "natural-cure",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/113.png",
+    "height": 11,
+    "experience": 395,
+    "types": "normal"
+  },
+  {
+    "name": "tangela",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/114.png",
+    "height": 10,
+    "experience": 87,
+    "types": "grass"
+  },
+  {
+    "name": "kangaskhan",
+    "abilities": "early-bird",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/115.png",
+    "height": 22,
+    "experience": 172,
+    "types": "normal"
+  },
+  {
+    "name": "horsea",
+    "abilities": "swift-swim",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/116.png",
+    "height": 4,
+    "experience": 59,
+    "types": "water"
+  },
+  {
+    "name": "seadra",
+    "abilities": "poison-point",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/117.png",
+    "height": 12,
+    "experience": 154,
+    "types": "water"
+  },
+  {
+    "name": "goldeen",
+    "abilities": "swift-swim",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/118.png",
+    "height": 6,
+    "experience": 64,
+    "types": "water"
+  },
+  {
+    "name": "seaking",
+    "abilities": "swift-swim",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/119.png",
+    "height": 13,
+    "experience": 158,
+    "types": "water"
+  },
+  {
+    "name": "staryu",
+    "abilities": "illuminate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/120.png",
+    "height": 8,
+    "experience": 68,
+    "types": "water"
+  },
+  {
+    "name": "starmie",
+    "abilities": "illuminate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/121.png",
+    "height": 11,
+    "experience": 182,
+    "types": "water"
+  },
+  {
+    "name": "mr-mime",
+    "abilities": "soundproof",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/122.png",
+    "height": 13,
+    "experience": 161,
+    "types": "psychic"
+  },
+  {
+    "name": "scyther",
+    "abilities": "swarm",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/123.png",
+    "height": 15,
+    "experience": 100,
+    "types": "bug"
+  },
+  {
+    "name": "jynx",
+    "abilities": "oblivious",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/124.png",
+    "height": 14,
+    "experience": 159,
+    "types": "ice"
+  },
+  {
+    "name": "electabuzz",
+    "abilities": "static",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/125.png",
+    "height": 11,
+    "experience": 172,
+    "types": "electric"
+  },
+  {
+    "name": "magmar",
+    "abilities": "flame-body",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/126.png",
+    "height": 13,
+    "experience": 173,
+    "types": "fire"
+  },
+  {
+    "name": "pinsir",
+    "abilities": "hyper-cutter",
+    "moves": "vice-grip",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/127.png",
+    "height": 15,
+    "experience": 175,
+    "types": "bug"
+  },
+  {
+    "name": "tauros",
+    "abilities": "intimidate",
+    "moves": "stomp",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/128.png",
+    "height": 14,
+    "experience": 172,
+    "types": "normal"
+  },
+  {
+    "name": "magikarp",
+    "abilities": "swift-swim",
+    "moves": "tackle",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/129.png",
+    "height": 9,
+    "experience": 40,
+    "types": "water"
+  },
+  {
+    "name": "gyarados",
+    "abilities": "intimidate",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/130.png",
+    "height": 65,
+    "experience": 189,
+    "types": "water"
+  },
+  {
+    "name": "lapras",
+    "abilities": "water-absorb",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/131.png",
+    "height": 25,
+    "experience": 187,
+    "types": "water"
+  },
+  {
+    "name": "ditto",
+    "abilities": "limber",
+    "moves": "transform",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/132.png",
+    "height": 3,
+    "experience": 101,
+    "types": "normal"
+  },
+  {
+    "name": "eevee",
+    "abilities": "run-away",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/133.png",
+    "height": 3,
+    "experience": 65,
+    "types": "normal"
+  },
+  {
+    "name": "vaporeon",
+    "abilities": "water-absorb",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/134.png",
+    "height": 10,
+    "experience": 184,
+    "types": "water"
+  },
+  {
+    "name": "jolteon",
+    "abilities": "volt-absorb",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/135.png",
+    "height": 8,
+    "experience": 184,
+    "types": "electric"
+  },
+  {
+    "name": "flareon",
+    "abilities": "flash-fire",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/136.png",
+    "height": 9,
+    "experience": 184,
+    "types": "fire"
+  },
+  {
+    "name": "porygon",
+    "abilities": "trace",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/137.png",
+    "height": 8,
+    "experience": 79,
+    "types": "normal"
+  },
+  {
+    "name": "omanyte",
+    "abilities": "swift-swim",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/138.png",
+    "height": 4,
+    "experience": 71,
+    "types": "rock"
+  },
+  {
+    "name": "omastar",
+    "abilities": "swift-swim",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/139.png",
+    "height": 10,
+    "experience": 173,
+    "types": "rock"
+  },
+  {
+    "name": "kabuto",
+    "abilities": "swift-swim",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/140.png",
+    "height": 5,
+    "experience": 71,
+    "types": "rock"
+  },
+  {
+    "name": "kabutops",
+    "abilities": "swift-swim",
+    "moves": "scratch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/141.png",
+    "height": 13,
+    "experience": 173,
+    "types": "rock"
+  },
+  {
+    "name": "aerodactyl",
+    "abilities": "rock-head",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/142.png",
+    "height": 18,
+    "experience": 180,
+    "types": "rock"
+  },
+  {
+    "name": "snorlax",
+    "abilities": "immunity",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/143.png",
+    "height": 21,
+    "experience": 189,
+    "types": "normal"
+  },
+  {
+    "name": "articuno",
+    "abilities": "pressure",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/144.png",
+    "height": 17,
+    "experience": 290,
+    "types": "ice"
+  },
+  {
+    "name": "zapdos",
+    "abilities": "pressure",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/145.png",
+    "height": 16,
+    "experience": 290,
+    "types": "electric"
+  },
+  {
+    "name": "moltres",
+    "abilities": "pressure",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/146.png",
+    "height": 20,
+    "experience": 290,
+    "types": "fire"
+  },
+  {
+    "name": "dratini",
+    "abilities": "shed-skin",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/147.png",
+    "height": 18,
+    "experience": 60,
+    "types": "dragon"
+  },
+  {
+    "name": "dragonair",
+    "abilities": "shed-skin",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/148.png",
+    "height": 40,
+    "experience": 147,
+    "types": "dragon"
+  },
+  {
+    "name": "dragonite",
+    "abilities": "inner-focus",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/149.png",
+    "height": 22,
+    "experience": 300,
+    "types": "dragon"
+  },
+  {
+    "name": "mewtwo",
+    "abilities": "pressure",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/150.png",
+    "height": 20,
+    "experience": 340,
+    "types": "psychic"
+  },
+  {
+    "name": "mew",
+    "abilities": "synchronize",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/151.png",
+    "height": 4,
+    "experience": 300,
+    "types": "psychic"
+  },
+  {
+    "name": "chikorita",
+    "abilities": "overgrow",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/152.png",
+    "height": 9,
+    "experience": 64,
+    "types": "grass"
+  },
+  {
+    "name": "bayleef",
+    "abilities": "overgrow",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/153.png",
+    "height": 12,
+    "experience": 142,
+    "types": "grass"
+  },
+  {
+    "name": "meganium",
+    "abilities": "overgrow",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/154.png",
+    "height": 18,
+    "experience": 236,
+    "types": "grass"
+  },
+  {
+    "name": "cyndaquil",
+    "abilities": "blaze",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/155.png",
+    "height": 5,
+    "experience": 62,
+    "types": "fire"
+  },
+  {
+    "name": "quilava",
+    "abilities": "blaze",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/156.png",
+    "height": 9,
+    "experience": 142,
+    "types": "fire"
+  },
+  {
+    "name": "typhlosion",
+    "abilities": "blaze",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/157.png",
+    "height": 17,
+    "experience": 240,
+    "types": "fire"
+  },
+  {
+    "name": "totodile",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/158.png",
+    "height": 6,
+    "experience": 63,
+    "types": "water"
+  },
+  {
+    "name": "croconaw",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/159.png",
+    "height": 11,
+    "experience": 142,
+    "types": "water"
+  },
+  {
+    "name": "feraligatr",
+    "abilities": "torrent",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/160.png",
+    "height": 23,
+    "experience": 239,
+    "types": "water"
+  },
+  {
+    "name": "sentret",
+    "abilities": "run-away",
+    "moves": "fire-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/161.png",
+    "height": 8,
+    "experience": 43,
+    "types": "normal"
+  },
+  {
+    "name": "furret",
+    "abilities": "run-away",
+    "moves": "fire-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/162.png",
+    "height": 18,
+    "experience": 145,
+    "types": "normal"
+  },
+  {
+    "name": "hoothoot",
+    "abilities": "insomnia",
+    "moves": "wing-attack",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/163.png",
+    "height": 7,
+    "experience": 52,
+    "types": "normal"
+  },
+  {
+    "name": "noctowl",
+    "abilities": "insomnia",
+    "moves": "wing-attack",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/164.png",
+    "height": 16,
+    "experience": 158,
+    "types": "normal"
+  },
+  {
+    "name": "ledyba",
+    "abilities": "swarm",
+    "moves": "comet-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/165.png",
+    "height": 10,
+    "experience": 53,
+    "types": "bug"
+  },
+  {
+    "name": "ledian",
+    "abilities": "swarm",
+    "moves": "comet-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/166.png",
+    "height": 14,
+    "experience": 137,
+    "types": "bug"
+  },
+  {
+    "name": "spinarak",
+    "abilities": "swarm",
+    "moves": "body-slam",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/167.png",
+    "height": 5,
+    "experience": 50,
+    "types": "bug"
+  },
+  {
+    "name": "ariados",
+    "abilities": "swarm",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/168.png",
+    "height": 11,
+    "experience": 140,
+    "types": "bug"
+  },
+  {
+    "name": "crobat",
+    "abilities": "inner-focus",
+    "moves": "wing-attack",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/169.png",
+    "height": 18,
+    "experience": 268,
+    "types": "poison"
+  },
+  {
+    "name": "chinchou",
+    "abilities": "volt-absorb",
+    "moves": "take-down",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/170.png",
+    "height": 5,
+    "experience": 66,
+    "types": "water"
+  },
+  {
+    "name": "lanturn",
+    "abilities": "volt-absorb",
+    "moves": "take-down",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/171.png",
+    "height": 12,
+    "experience": 161,
+    "types": "water"
+  },
+  {
+    "name": "pichu",
+    "abilities": "static",
+    "moves": "double-slap",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/172.png",
+    "height": 3,
+    "experience": 41,
+    "types": "electric"
+  },
+  {
+    "name": "cleffa",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/173.png",
+    "height": 3,
+    "experience": 44,
+    "types": "fairy"
+  },
+  {
+    "name": "igglybuff",
+    "abilities": "cute-charm",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/174.png",
+    "height": 3,
+    "experience": 42,
+    "types": "normal"
+  },
+  {
+    "name": "togepi",
+    "abilities": "hustle",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/175.png",
+    "height": 3,
+    "experience": 49,
+    "types": "fairy"
+  },
+  {
+    "name": "togetic",
+    "abilities": "hustle",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/176.png",
+    "height": 6,
+    "experience": 142,
+    "types": "fairy"
+  },
+  {
+    "name": "natu",
+    "abilities": "synchronize",
+    "moves": "double-edge",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/177.png",
+    "height": 2,
+    "experience": 64,
+    "types": "psychic"
+  },
+  {
+    "name": "xatu",
+    "abilities": "synchronize",
+    "moves": "fly",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/178.png",
+    "height": 15,
+    "experience": 165,
+    "types": "psychic"
+  },
+  {
+    "name": "mareep",
+    "abilities": "static",
+    "moves": "sand-attack",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/179.png",
+    "height": 6,
+    "experience": 56,
+    "types": "electric"
+  },
+  {
+    "name": "flaaffy",
+    "abilities": "static",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/180.png",
+    "height": 8,
+    "experience": 128,
+    "types": "electric"
+  },
+  {
+    "name": "ampharos",
+    "abilities": "static",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/181.png",
+    "height": 14,
+    "experience": 230,
+    "types": "electric"
+  },
+  {
+    "name": "bellossom",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/182.png",
+    "height": 4,
+    "experience": 245,
+    "types": "grass"
+  },
+  {
+    "name": "marill",
+    "abilities": "thick-fat",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/183.png",
+    "height": 4,
+    "experience": 88,
+    "types": "water"
+  },
+  {
+    "name": "azumarill",
+    "abilities": "thick-fat",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/184.png",
+    "height": 8,
+    "experience": 210,
+    "types": "water"
+  },
+  {
+    "name": "sudowoodo",
+    "abilities": "sturdy",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/185.png",
+    "height": 12,
+    "experience": 144,
+    "types": "rock"
+  },
+  {
+    "name": "politoed",
+    "abilities": "water-absorb",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/186.png",
+    "height": 11,
+    "experience": 250,
+    "types": "water"
+  },
+  {
+    "name": "hoppip",
+    "abilities": "chlorophyll",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/187.png",
+    "height": 4,
+    "experience": 50,
+    "types": "grass"
+  },
+  {
+    "name": "skiploom",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/188.png",
+    "height": 6,
+    "experience": 119,
+    "types": "grass"
+  },
+  {
+    "name": "jumpluff",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/189.png",
+    "height": 8,
+    "experience": 207,
+    "types": "grass"
+  },
+  {
+    "name": "aipom",
+    "abilities": "run-away",
+    "moves": "double-slap",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/190.png",
+    "height": 8,
+    "experience": 72,
+    "types": "normal"
+  },
+  {
+    "name": "sunkern",
+    "abilities": "chlorophyll",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/191.png",
+    "height": 3,
+    "experience": 36,
+    "types": "grass"
+  },
+  {
+    "name": "sunflora",
+    "abilities": "chlorophyll",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/192.png",
+    "height": 8,
+    "experience": 149,
+    "types": "grass"
+  },
+  {
+    "name": "yanma",
+    "abilities": "speed-boost",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/193.png",
+    "height": 12,
+    "experience": 78,
+    "types": "bug"
+  },
+  {
+    "name": "wooper",
+    "abilities": "damp",
+    "moves": "ice-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/194.png",
+    "height": 4,
+    "experience": 42,
+    "types": "water"
+  },
+  {
+    "name": "quagsire",
+    "abilities": "damp",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/195.png",
+    "height": 14,
+    "experience": 151,
+    "types": "water"
+  },
+  {
+    "name": "espeon",
+    "abilities": "synchronize",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/196.png",
+    "height": 9,
+    "experience": 184,
+    "types": "psychic"
+  },
+  {
+    "name": "umbreon",
+    "abilities": "synchronize",
+    "moves": "pay-day",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/197.png",
+    "height": 10,
+    "experience": 184,
+    "types": "dark"
+  },
+  {
+    "name": "murkrow",
+    "abilities": "insomnia",
+    "moves": "gust",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/198.png",
+    "height": 5,
+    "experience": 81,
+    "types": "dark"
+  },
+  {
+    "name": "slowking",
+    "abilities": "oblivious",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/199.png",
+    "height": 20,
+    "experience": 172,
+    "types": "water"
+  },
+  {
+    "name": "misdreavus",
+    "abilities": "levitate",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/200.png",
+    "height": 7,
+    "experience": 87,
+    "types": "ghost"
+  },
+  {
+    "name": "unown",
+    "abilities": "levitate",
+    "moves": "hidden-power",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/201.png",
+    "height": 5,
+    "experience": 118,
+    "types": "psychic"
+  },
+  {
+    "name": "wobbuffet",
+    "abilities": "shadow-tag",
+    "moves": "counter",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/202.png",
+    "height": 13,
+    "experience": 142,
+    "types": "psychic"
+  },
+  {
+    "name": "girafarig",
+    "abilities": "inner-focus",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/203.png",
+    "height": 15,
+    "experience": 159,
+    "types": "normal"
+  },
+  {
+    "name": "pineco",
+    "abilities": "sturdy",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/204.png",
+    "height": 6,
+    "experience": 58,
+    "types": "bug"
+  },
+  {
+    "name": "forretress",
+    "abilities": "sturdy",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/205.png",
+    "height": 12,
+    "experience": 163,
+    "types": "bug"
+  },
+  {
+    "name": "dunsparce",
+    "abilities": "serene-grace",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/206.png",
+    "height": 15,
+    "experience": 145,
+    "types": "normal"
+  },
+  {
+    "name": "gligar",
+    "abilities": "hyper-cutter",
+    "moves": "guillotine",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/207.png",
+    "height": 11,
+    "experience": 86,
+    "types": "ground"
+  },
+  {
+    "name": "steelix",
+    "abilities": "rock-head",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/208.png",
+    "height": 92,
+    "experience": 179,
+    "types": "steel"
+  },
+  {
+    "name": "snubbull",
+    "abilities": "intimidate",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/209.png",
+    "height": 6,
+    "experience": 60,
+    "types": "fairy"
+  },
+  {
+    "name": "granbull",
+    "abilities": "intimidate",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/210.png",
+    "height": 14,
+    "experience": 158,
+    "types": "fairy"
+  },
+  {
+    "name": "qwilfish",
+    "abilities": "poison-point",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/211.png",
+    "height": 5,
+    "experience": 88,
+    "types": "water"
+  },
+  {
+    "name": "scizor",
+    "abilities": "swarm",
+    "moves": "razor-wind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/212.png",
+    "height": 18,
+    "experience": 175,
+    "types": "bug"
+  },
+  {
+    "name": "shuckle",
+    "abilities": "sturdy",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/213.png",
+    "height": 6,
+    "experience": 177,
+    "types": "bug"
+  },
+  {
+    "name": "heracross",
+    "abilities": "swarm",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/214.png",
+    "height": 15,
+    "experience": 175,
+    "types": "bug"
+  },
+  {
+    "name": "sneasel",
+    "abilities": "inner-focus",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/215.png",
+    "height": 9,
+    "experience": 86,
+    "types": "dark"
+  },
+  {
+    "name": "teddiursa",
+    "abilities": "pickup",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/216.png",
+    "height": 6,
+    "experience": 66,
+    "types": "normal"
+  },
+  {
+    "name": "ursaring",
+    "abilities": "guts",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/217.png",
+    "height": 18,
+    "experience": 175,
+    "types": "normal"
+  },
+  {
+    "name": "slugma",
+    "abilities": "magma-armor",
+    "moves": "body-slam",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/218.png",
+    "height": 7,
+    "experience": 50,
+    "types": "fire"
+  },
+  {
+    "name": "magcargo",
+    "abilities": "magma-armor",
+    "moves": "body-slam",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/219.png",
+    "height": 8,
+    "experience": 151,
+    "types": "fire"
+  },
+  {
+    "name": "swinub",
+    "abilities": "oblivious",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/220.png",
+    "height": 4,
+    "experience": 50,
+    "types": "ice"
+  },
+  {
+    "name": "piloswine",
+    "abilities": "oblivious",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/221.png",
+    "height": 11,
+    "experience": 158,
+    "types": "ice"
+  },
+  {
+    "name": "corsola",
+    "abilities": "hustle",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/222.png",
+    "height": 6,
+    "experience": 144,
+    "types": "water"
+  },
+  {
+    "name": "remoraid",
+    "abilities": "hustle",
+    "moves": "double-edge",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/223.png",
+    "height": 6,
+    "experience": 60,
+    "types": "water"
+  },
+  {
+    "name": "octillery",
+    "abilities": "suction-cups",
+    "moves": "bind",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/224.png",
+    "height": 9,
+    "experience": 168,
+    "types": "water"
+  },
+  {
+    "name": "delibird",
+    "abilities": "vital-spirit",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/225.png",
+    "height": 9,
+    "experience": 116,
+    "types": "ice"
+  },
+  {
+    "name": "mantine",
+    "abilities": "swift-swim",
+    "moves": "wing-attack",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/226.png",
+    "height": 21,
+    "experience": 170,
+    "types": "water"
+  },
+  {
+    "name": "skarmory",
+    "abilities": "keen-eye",
+    "moves": "swords-dance",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/227.png",
+    "height": 17,
+    "experience": 163,
+    "types": "steel"
+  },
+  {
+    "name": "houndour",
+    "abilities": "early-bird",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/228.png",
+    "height": 6,
+    "experience": 66,
+    "types": "dark"
+  },
+  {
+    "name": "houndoom",
+    "abilities": "early-bird",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/229.png",
+    "height": 14,
+    "experience": 175,
+    "types": "dark"
+  },
+  {
+    "name": "kingdra",
+    "abilities": "swift-swim",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/230.png",
+    "height": 18,
+    "experience": 270,
+    "types": "water"
+  },
+  {
+    "name": "phanpy",
+    "abilities": "pickup",
+    "moves": "slam",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/231.png",
+    "height": 5,
+    "experience": 66,
+    "types": "ground"
+  },
+  {
+    "name": "donphan",
+    "abilities": "sturdy",
+    "moves": "slam",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/232.png",
+    "height": 11,
+    "experience": 175,
+    "types": "ground"
+  },
+  {
+    "name": "porygon2",
+    "abilities": "trace",
+    "moves": "tackle",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/233.png",
+    "height": 6,
+    "experience": 180,
+    "types": "normal"
+  },
+  {
+    "name": "stantler",
+    "abilities": "intimidate",
+    "moves": "stomp",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/234.png",
+    "height": 14,
+    "experience": 163,
+    "types": "normal"
+  },
+  {
+    "name": "smeargle",
+    "abilities": "own-tempo",
+    "moves": "sketch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/235.png",
+    "height": 12,
+    "experience": 88,
+    "types": "normal"
+  },
+  {
+    "name": "tyrogue",
+    "abilities": "guts",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/236.png",
+    "height": 7,
+    "experience": 42,
+    "types": "fighting"
+  },
+  {
+    "name": "hitmontop",
+    "abilities": "intimidate",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/237.png",
+    "height": 14,
+    "experience": 159,
+    "types": "fighting"
+  },
+  {
+    "name": "smoochum",
+    "abilities": "oblivious",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/238.png",
+    "height": 4,
+    "experience": 61,
+    "types": "ice"
+  },
+  {
+    "name": "elekid",
+    "abilities": "static",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/239.png",
+    "height": 6,
+    "experience": 72,
+    "types": "electric"
+  },
+  {
+    "name": "magby",
+    "abilities": "flame-body",
+    "moves": "karate-chop",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/240.png",
+    "height": 7,
+    "experience": 73,
+    "types": "fire"
+  },
+  {
+    "name": "miltank",
+    "abilities": "thick-fat",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/241.png",
+    "height": 12,
+    "experience": 172,
+    "types": "normal"
+  },
+  {
+    "name": "blissey",
+    "abilities": "natural-cure",
+    "moves": "pound",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/242.png",
+    "height": 15,
+    "experience": 635,
+    "types": "normal"
+  },
+  {
+    "name": "raikou",
+    "abilities": "pressure",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/243.png",
+    "height": 19,
+    "experience": 290,
+    "types": "electric"
+  },
+  {
+    "name": "entei",
+    "abilities": "pressure",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/244.png",
+    "height": 21,
+    "experience": 290,
+    "types": "fire"
+  },
+  {
+    "name": "suicune",
+    "abilities": "pressure",
+    "moves": "cut",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/245.png",
+    "height": 20,
+    "experience": 290,
+    "types": "water"
+  },
+  {
+    "name": "larvitar",
+    "abilities": "guts",
+    "moves": "stomp",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/246.png",
+    "height": 6,
+    "experience": 60,
+    "types": "rock"
+  },
+  {
+    "name": "pupitar",
+    "abilities": "shed-skin",
+    "moves": "headbutt",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/247.png",
+    "height": 12,
+    "experience": 144,
+    "types": "rock"
+  },
+  {
+    "name": "tyranitar",
+    "abilities": "sand-stream",
+    "moves": "mega-punch",
+    "img": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/248.png",
+    "height": 20,
+    "experience": 300,
+    "types": "rock"
+  }
+]
